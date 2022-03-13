@@ -1,0 +1,19 @@
+int a;
+int main()
+{
+	a = 10;
+                b = 0x11ff;
+                c = 027;
+                // d = 20;
+               /* e = 30; 
+              */
+
+	//if判断
+	if ( a><0 ) 
+               {
+		return 1a;
+	}
+	else{
+		return 0;
+	}
+}
